@@ -6,6 +6,7 @@ Zvezda
 	git clone git://github.com/redrik/zvezda.git
 	cd zvezda
 	ruby vivod.rb [число зубьев звездочки] [диаметр элемента зацепления цепей] [шаг цепи]
+<<<<<<< HEAD
 
 Вывод:
 	ruby vivod.rb 16 8 12.75
@@ -27,3 +28,5 @@ Zvezda
 					     y = 4.01
 	Координаты точки о2: x = 9.73
 		 			    y = 1.94
+=======
+>>>>>>> 635690f7c420da61b6125a254fedd1494b227f39
